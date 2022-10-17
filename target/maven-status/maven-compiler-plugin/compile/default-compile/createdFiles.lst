@@ -1,0 +1,6 @@
+servidor\Cliente.class
+servidor\ICliente.class
+servidor\IServidor.class
+servidor\Alerta.class
+servidor\Servidor.class
+servidor\Compromisso.class
